@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shaan</h1>
-<h3 align="center">A passionate Web And App developer from Bangladesh.</h3>
-
+<h3 align="center">A passionate Web And App developer from Bangladesh.</h3
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-shaan&label=Profile%20views&color=0e75b6&style=flat" alt="sm-shaan" /> </p>
+<div>
+  <a height="150" width="100" align="right" href="https://ibb.co/5YTGPdD"><img src="https://i.ibb.co/5YTGPdD/sun-animation.gif" alt="sun-animation" border="0"></a>
+</div>
 
 - 🌱 I’m currently learning **Flutter, React js, Python.**
 
 - 📫 How to reach me **shanewazmahmud328@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
