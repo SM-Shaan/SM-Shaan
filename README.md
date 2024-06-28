@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, React js, Python.**
 
-- 📫 How to reach me **shanewazmahmud328@gmail.com**
+- 📫 _How to reach me_: **shanewazmahmud328@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
