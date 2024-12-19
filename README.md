@@ -1,24 +1,85 @@
 <h1 align="center">Hi 👋, I'm Shaan</h1>
-<h3 align="center">A passionate Web And App developer from Bangladesh.</h3
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-shaan&label=Profile%20views&color=0e75b6&style=flat" alt="sm-shaan" /> </p>
-<div>
-  <a height="150" width="100" align="right" href="https://ibb.co/5YTGPdD"><img src="https://i.ibb.co/5YTGPdD/sun-animation.gif" alt="sun-animation" border="0"></a>
-</div>
+<h3 align="center">A passionate Web and App Developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Flutter, React js, Python.**
-
-- 📫 _How to reach me_: **shanewazmahmud328@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shanewaz mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanewaz mahmud" height="30" width="40" /></a>
-<a href="https://instagram.com/`bosonto°" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="`bosonto°" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bosonto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bosonto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_bosonto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_bosonto_" height="30" width="40" /></a>
+<p > 
+  <img src="https://komarev.com/ghpvc/?username=sm-shaan&label=Profile%20Views&color=0e75b6&style=flat" alt="sm-shaan" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-shaan&show_icons=true&locale=en&layout=compact" alt="sm-shaan" /></p>
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Flutter**, **React.js**, **Python**, and exploring **Machine Learning** to build intelligent applications.
+- 💼 **Intermediate-level expertise** in **Web Development** and **Mobile App Development**, creating scalable, user-friendly applications.
+- 🔧 Passionate about **problem-solving**, **UI/UX design**, and delivering elegant, efficient code.
+- 🎯 My mission is to contribute to **open-source projects**, **explore new technologies**, and build tools that make a real-world impact.
+- 🌍 **Collaboration** excites me! I enjoy working with like-minded individuals to create innovative solutions that scale.
+
+
+## 📬 Reach Out to Me
+
+Let's connect and collaborate! 😊
+
+<p>
+  <a href="mailto:shanewazmahmud328@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-shanewazmahmud328@gmail.com-blue?style=flat-square&logo=gmail" alt="email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shanewazmahmud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-@shanewazmahmud-0e76a8?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/bosonto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@bosonto-833AB4?style=flat-square&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://www.codechef.com/users/bosonto" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-bosonto-black?style=flat-square&logo=codechef" alt="CodeChef"/>
+  </a>
+  <a href="https://codeforces.com/profile/_bosonto_" target="_blank">
+    <img src="https://img.shields.io/badge/CodeForces-@_bosonto_-00A9D6?style=flat-square&logo=codeforces" alt="CodeForces"/>
+  </a>
+</p>
+
+
+## 🛠 Languages and Tools
+
+Here are some of the technologies and tools I use in my projects:
+
+<p> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/> </a>
+</p>
+
+
+## 🔥 GitHub Stats
+
+Here are some of my GitHub stats and insights:
+
+<p align="center">
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sm-shaan&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs"/>
+  <img height="160" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm-shaan&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
+
+
+## 📈 Projects & Contributions
+
+Here are a few of the projects I have contributed to:
+
+- **[Dynamic Allocation Ray Tracing](https://github.com/faysaltaysir/Dynamic-_Allocation-Ray_Tracing)**: An innovative algorithm for ray tracing with dynamic memory allocation.
+
+
+## 🎯 My Future Plans
+
+I'm working towards enhancing my skills in the following areas:
+
+- **Deep Learning**: Explore advanced **Computer Vision** and **Natural Language Processing (NLP)** applications.
+- **Machine Learning**: Develop **AI-powered** apps for accurate data analysis and trend prediction.
+- **Cloud Solutions**: Expand knowledge in **AWS** and **Google Cloud Platform** to build scalable, production-ready web and mobile applications.
+
