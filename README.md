@@ -72,7 +72,8 @@ Here are some of my GitHub stats and insights:
 
 Here are a few of the projects I have contributed to:
 
-- **[Dynamic Allocation Ray Tracing](https://github.com/faysaltaysir/Dynamic-_Allocation-Ray_Tracing)**: An innovative algorithm for ray tracing with dynamic memory allocation.
+- **[Dynamic Allocation Ray Tracing](https://github.com/faysaltaysir/Dynamic-_Allocation-Ray_Tracing)**
+- **[Admission Assist App](https://github.com/sadman017/Admission_Assist-App?fbclid=IwY2xjawHRzM5leHRuA2FlbQIxMAABHUX9Jf0EDE_uEJpV62SYey4D0jlhogfOAiUIMYF7lc_2chlaL5ShYUhBoA_aem_ZE3PsSmmLqBKpXCjIjexkA)**
 
 
 ## 🎯 My Future Plans
