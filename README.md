@@ -188,10 +188,10 @@ Here are a few of the projects I have contributed to:
 - **[Admission Assist App](https://github.com/sadman017/Admission_Assist-App?fbclid=IwY2xjawHRzM5leHRuA2FlbQIxMAABHUX9Jf0EDE_uEJpV62SYey4D0jlhogfOAiUIMYF7lc_2chlaL5ShYUhBoA_aem_ZE3PsSmmLqBKpXCjIjexkA)**
 - **[Dynamic Allocation Ray Tracing](https://github.com/faysaltaysir/Dynamic-_Allocation-Ray_Tracing)**
 
-<h2 align="left">🔝 Top Contributed Repositories</h2>
+<!-- <h2 align="left">🔝 Top Contributed Repositories</h2>
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=sm-shaan&limit=12&theme=vue&combine_all_yearly_contributions=true" />
-</p>
+</p> -->
 
 ## 💡 Development Philosophy
 
